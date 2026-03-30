@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: DİJİTAL LİDERLİK PROGRAMI  
-  description: GALATASARAY ÜNİVERSİTESİ 
+# Teknik Araçlar ve Programlar
+- skill: Teknik Araçlar ve Programlar
+  description: •	AutoCAD, SolidWorks, KiCad, Proteus
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Mühendislik Yetkinlikleri
+  description: •	Teknik çizim, saha yerleşim planı hazırlama, BTK ve TSSR süreçleri, proje dokümantasyonu, saha keşfi, devreye alma, sistem entegrasyonu, prototipleme, sensör kalibrasyonu, temel elektronik devre tasarımı, PLC ve otomasyon sistemleri, SCADA sistemleri
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Programlama Dilleri
+  description: •	Python, C#
+
+# Digital content development and creation
+- skill: Yabancı Dil
+  description: •	İngilizce – B1 (Intermediate)
