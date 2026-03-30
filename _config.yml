@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "OĞUZ SAMET KALUÇ"
 resume_title:                   "ELEKTRİK ELEKTRONİK MÜHENDİSİ"
 
@@ -23,13 +23,13 @@ resume_contact_address:         "İSTANUL,TÜRKİYE"
 resume_header_contact_info:     "İSTANUL,TÜRKİYE • 551-502-48-99 • oguzsametkaluc@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Elektrik-Elektronik Mühendisiyim. Telekomünikasyon (2G-5G) saha projelerinde tasarım, AutoCAD çizim, teknik dokümantasyon ve sistem entegrasyonu alanlarında deneyim sahibiyim. İHA ve otomasyon odaklı projelerde görev aldım. Savunma ve havacılık sektörlerinde analitik yaklaşımım ile katkı sağlamayı hedefliyorum.</p>"
+resume_header_intro: "<p>Elektrik-Elektronik Mühendisi olarak telekomünikasyon saha çizimleri, teknik dokümantasyon, sistem entegrasyonu, otomasyon ve İHA odaklı projelerde deneyim sahibiyim. 2G, 3G, 4G ve 5G saha projelerinde indoor ve outdoor teknik dosya hazırlığı, AutoCAD ile çizim, revizyon ve saha uygulanabilirlik kontrolleri yürüttüm. Savunma sanayii, havacılık ve teknik operasyon odaklı pozisyonlarda; analitik bakış açım, saha-teknik koordinasyon tecrübem ve hızlı öğrenme yetkinliğimle katkı sunmayı hedefliyorum.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        ""
 
 # Decide which sections to use
 # comment out to hide
