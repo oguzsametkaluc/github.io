@@ -11,13 +11,13 @@
 # Springfield Community Outreach Group
 - project: GÜNEŞ TAKİP SİSTEMİ
   role: 
-  duration:     &mdash; Present
+  duration: 2024 &mdash; Present
   # url: "#"
   description: Raspberry Pi Pico kullanarak güneş takip sistemi geliştirdim. Sistemin mekanik parçalarını 3D yazıcı ile ürettim, elektronik bağlantılarını tamamladım ve çalışır prototip haline getirdim. Proje kapsamında gömülü sistem mantığı, sensör kullanımı ve temel kontrol uygulamaları üzerine deneyim kazandım. 
 
 # Springfield Community Outreach Group
 - project: AC DİMMER DEVRESİ 
   role: 
-  duration:     &mdash; Present
+  duration: 2024 &mdash; Present
   # url: "#"
   description: 220V AC ile çalışan, triyak kontrollü bir dimmer devresi tasarladım. Gerilim düşürme, doğrultma, mikrodenetleyici besleme ve sıfır geçiş algılama süreçlerini kurguladım. Triyak tetikleme zamanlamasını kontrol ederek faz açısı üzerinden parlaklık ayarı sağladım ve optokuplör ile izolasyon yapısını oluşturdum.
