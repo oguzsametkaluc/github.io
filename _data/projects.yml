@@ -3,7 +3,7 @@
 
 # jazznotes.io
 - project: İNSANSIZ HAVA ARACI TASARIMI                
-  role: ÜNİVERSİTE BİTİRME PROJESİ                   <a href="https://github.com/oguzsametkaluc/IHA-TASARIMI" target="_blank" class="github-link"> Github'da Görüntüle </a>
+  role: ÜNİVERSİTE BİTİRME PROJESİ                   <p><strong>NLE Batch Editor</strong><a href="https://github.com/oguzsametkaluc/IHA-TASARIMI" target="_blank" class="github-link">Github'da Görüntüle </a></p><p> <strong>Diğer Proje</strong> <a href="https://github.com/kullaniciadi/diger-proje" target="_blank" class="github-link"> Github'da Görüntüle</a></p>
   duration:   2024 
   # url: "#"
   description: Döner kanatlı İHA sisteminin konsept tasarım, mekanik modelleme, prototipleme ve temel sistem entegrasyon süreçlerini bireysel olarak yürüttüm. Mekanik parçaları SolidWorks kullanarak modelledim ve 3D yazıcı ile prototip üretimini gerçekleştirdim. Uçuş kontrol kartı kurulumu, sensör kalibrasyonları ve temel sistem ayarlarını tamamladım. 
