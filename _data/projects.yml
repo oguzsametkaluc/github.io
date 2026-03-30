@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: İNSANSIZ HAVA ARACI TASARIMI 
   role: Founder & Primary Developer
   duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Döner kanatlı İHA sisteminin konsept tasarım, mekanik modelleme, prototipleme ve temel sistem entegrasyon süreçlerini bireysel olarak yürüttüm. Mekanik parçaları SolidWorks kullanarak modelledim ve 3D yazıcı ile prototip üretimini gerçekleştirdim. Uçuş kontrol kartı kurulumu, sensör kalibrasyonları ve temel sistem ayarlarını tamamladım. 
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
