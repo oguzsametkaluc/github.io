@@ -4,20 +4,20 @@
 # jazznotes.io
 - project: İNSANSIZ HAVA ARACI TASARIMI 
   role: ÜNİVERSİTE BİTİRME PROJESİ 
-  duration:   2024 &mdash; Present
+  duration:   2024 &mdash; 
   # url: "#"
   description: Döner kanatlı İHA sisteminin konsept tasarım, mekanik modelleme, prototipleme ve temel sistem entegrasyon süreçlerini bireysel olarak yürüttüm. Mekanik parçaları SolidWorks kullanarak modelledim ve 3D yazıcı ile prototip üretimini gerçekleştirdim. Uçuş kontrol kartı kurulumu, sensör kalibrasyonları ve temel sistem ayarlarını tamamladım. 
 
 # Springfield Community Outreach Group
 - project: GÜNEŞ TAKİP SİSTEMİ
   role: 
-  duration:   2024 &mdash; Present
+  duration:   2024 &mdash; 
   # url: "#"
   description: Raspberry Pi Pico kullanarak güneş takip sistemi geliştirdim. Sistemin mekanik parçalarını 3D yazıcı ile ürettim, elektronik bağlantılarını tamamladım ve çalışır prototip haline getirdim. Proje kapsamında gömülü sistem mantığı, sensör kullanımı ve temel kontrol uygulamaları üzerine deneyim kazandım. 
 
 # Springfield Community Outreach Group
 - project: AC DİMMER DEVRESİ 
   role: 
-  duration:   2024 &mdash; Present
+  duration:   2024 &mdash; 
   # url: "#"
   description: 220V AC ile çalışan, triyak kontrollü bir dimmer devresi tasarladım. Gerilim düşürme, doğrultma, mikrodenetleyici besleme ve sıfır geçiş algılama süreçlerini kurguladım. Triyak tetikleme zamanlamasını kontrol ederek faz açısı üzerinden parlaklık ayarı sağladım ve optokuplör ile izolasyon yapısını oluşturdum.
