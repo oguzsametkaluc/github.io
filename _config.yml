@@ -14,7 +14,7 @@ resume_name:                    "OĞUZ SAMET KALUÇ"
 resume_title:                   "ELEKTRİK ELEKTRONİK MÜHENDİSİ"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "oguzsametkaluc@gmail.com"
+resume_contact_email:           ""
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "551-502-48-99"
