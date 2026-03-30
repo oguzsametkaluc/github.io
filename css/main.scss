@@ -12,3 +12,17 @@
 
 // Layouts
 @import "resume";
+
+<style>
+  a.github-link {
+    font-size: 0.325rem;   /* Daha küçük yazı */
+    margin-left: 10px;    /* Projeden boşluk */
+    color: #d04c37;       
+    font-weight: normal;  
+    text-decoration: none;
+  }
+
+  a.github-link:hover {
+    text-decoration: underline; /* Üzerine gelince alt çizgi */
+  }
+</style>
