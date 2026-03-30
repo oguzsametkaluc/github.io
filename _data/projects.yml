@@ -2,21 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: İNSANSIZ HAVA ARACI TASARIMI                
-  role: ÜNİVERSİTE BİTİRME PROJESİ                   <p><strong></strong><a href="https://github.com/oguzsametkaluc/IHA-TASARIMI" target="_blank" class="github-link">Github'da Görüntüle </a></p><p> <strong></strong> <a href="" target="_blank" class="github-link"></a></p>
+- project: İNSANSIZ HAVA ARACI TASARIMI               <p><strong></strong><a href="https://github.com/oguzsametkaluc/IHA-TASARIMI" target="_blank" class="github-link">Github'da Görüntüle </a></p><p> <strong></strong> <a href="" target="_blank" class="github-link"></a></p>                
+  role: ÜNİVERSİTE BİTİRME PROJESİ                   
   duration:   2024 
   # url: "#"
   description: Döner kanatlı İHA sisteminin konsept tasarım, mekanik modelleme, prototipleme ve temel sistem entegrasyon süreçlerini bireysel olarak yürüttüm. Mekanik parçaları SolidWorks kullanarak modelledim ve 3D yazıcı ile prototip üretimini gerçekleştirdim. Uçuş kontrol kartı kurulumu, sensör kalibrasyonları ve temel sistem ayarlarını tamamladım. 
 
 # Springfield Community Outreach Group             
-- project: GÜNEŞ TAKİP SİSTEMİ                      <a href="https://github.com/oguzsametkaluc/GUNES-TAKIP-SISTEMI-" target="_blank" class="github-link"> Github'da Görüntüle </a>
+- project: GÜNEŞ TAKİP SİSTEMİ                      <p><strong></strong><a href="https://github.com/oguzsametkaluc/GUNES-TAKIP-SISTEMI-" target="_blank" class="github-link">Github'da Görüntüle </a></p><p> <strong></strong> <a href="" target="_blank" class="github-link"></a></p>
   role: 
   duration:   2024 
   # url: "#"
   description: Raspberry Pi Pico kullanarak güneş takip sistemi geliştirdim. Sistemin mekanik parçalarını 3D yazıcı ile ürettim, elektronik bağlantılarını tamamladım ve çalışır prototip haline getirdim. Proje kapsamında gömülü sistem mantığı, sensör kullanımı ve temel kontrol uygulamaları üzerine deneyim kazandım. 
 
 # Springfield Community Outreach Group             
-- project: AC DİMMER DEVRESİ                       <a href="https://github.com/oguzsametkaluc/AC-DIMMER-DEVRESI" target="_blank" class="github-link"> Github'da Görüntüle </a>
+- project: AC DİMMER DEVRESİ                       <p><strong></strong><a href="https://github.com/oguzsametkaluc/AC-DIMMER-DEVRESI" target="_blank" class="github-link">Github'da Görüntüle </a></p><p> <strong></strong> <a href="" target="_blank" class="github-link"></a></p>
   role: 
   duration:   2024 
   # url: "#"
